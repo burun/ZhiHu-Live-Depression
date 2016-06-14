@@ -1,6 +1,6 @@
 ## 周不润的知乎Live - 闲话抑郁症
 ----
-![My Anxious Heart](images\My Anxious Heart.jpg)
+![My Anxious Heart](images\My Anxious Heart.jpg?raw=true)
 
 大家好，我是周不润，6月16日（周四）晚21:00的知乎Live中，我将和大家聊一聊抑郁症。
 
